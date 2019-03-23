@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cross-Service Calls"
+    id="93bba506-db1d-439c-ae65-ede01d5313a5"
+    documentation="HTTP/1.1, HTTP/2, gRPC, TCP-TLS">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_5cf02fc0-eccb-4ac2-b13f-b9691b7d0d14.xml#5cf02fc0-eccb-4ac2-b13f-b9691b7d0d14"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_84405330-01d5-4d8a-bef2-7366263e3309.xml#84405330-01d5-4d8a-bef2-7366263e3309"/>
+</archimate:TriggeringRelationship>
